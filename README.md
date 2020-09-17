@@ -19,9 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/56660196/93455962-08442080-f8ab-11ea-9e95-4a62f5331ab3.gif)
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/56660196/93456706-1181bd00-f8ac-11ea-80f5-22bd638e4bdf.gif)
 
-GIF created with [EZgif](https://ezgif.com/video-to-gif).
 
 ## Notes
 
