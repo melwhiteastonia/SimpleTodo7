@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/56660196/93454956-b222ad80-f8a9-11ea-897b-ecfd6eded5b1.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/56660196/93455962-08442080-f8ab-11ea-9e95-4a62f5331ab3.gif)
 
 GIF created with [EZgif](https://ezgif.com/video-to-gif).
 
